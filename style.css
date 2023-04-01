@@ -1,0 +1,14 @@
+.header-logo{
+        font-family: 'Bilbo Swash Caps';
+        font-weight: 400;
+        font-size: 36px;
+        line-height: 1.14;
+        color: #FED136;
+}
+.header-list{
+        font-family: 'Montserrat';
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 2.93;
+        color: #FED136;
+}
